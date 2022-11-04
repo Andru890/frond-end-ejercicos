@@ -1,0 +1,163 @@
+body {
+	
+	font-family: 'Grenze Gotisch', cursive;
+	width: 1440px;
+	height: 1200px;
+	background-image: url(img/fondo.jpg);
+	background-size: cover;
+
+}	
+
+
+main {
+	position: relative;
+	padding-left: 460px;
+	padding-right: -200px;
+	height: 1200px;
+}
+
+
+
+.yo {
+	text-align: center;
+	padding-top: 30px;
+	padding-bottom: 25px;
+
+}
+
+
+
+.titulo {
+	background-color:#C4C4C4 ;
+	color: #005677;
+	text-align: center;
+	margin: auto;
+	padding-top: 7px;
+	padding-bottom: 7px;
+	
+
+}
+
+
+.sobremi {
+	background-color: #C4C4C4;
+	width: 100px;
+	margin-left: 450px;
+	font-size: 25px;
+	border-radius: 5px;
+	box-shadow: 5px 5px 5px #005677 ;
+
+}
+.text {
+	text-decoration: none;
+}
+
+
+.sub1 {
+	position: relative;
+	background-color: #C4C4C4;
+	color: #005677;
+	padding-bottom: 5px;
+	padding-left: 7px;
+	padding-top: 5px;
+
+}
+
+
+
+.sub2 {
+	position: relative;
+	background-color: #C4C4C4;
+	color: #005677;
+	padding-bottom: 5px;
+	padding-left: 7px;
+	padding-top: 5px;
+
+
+}
+
+
+.sub3 {
+	position: relative;
+	background-color: #C4C4C4;
+	color: #005677;
+	padding-bottom: 5px;
+	padding-left: 7px;
+	padding-top: 5px;
+
+}
+
+ 
+
+
+
+
+
+.footer {
+	position: absolute;
+	margin-top: 50px;
+	background-color:#005677 ;
+	width: 1000px;
+	height: 40px;
+
+		
+}
+
+
+
+
+
+
+
+
+.fot1 {
+	width: 120px;
+	height: 30px;
+	background-color: #005677 ;
+	color: white;
+	margin-left: 400px;
+	margin-top: 8px;
+	
+}
+
+
+
+.ig  {
+	background-color: #005677
+	width: 18px;
+	margin-left: 520px;
+	margin-top: -27px;
+	color: white;
+}
+
+
+.linke {
+
+	background-color: #005677;
+	width: 18px;
+	margin-left: 550px;
+	margin-top: -19px;
+	color: white;
+}
+
+
+
+
+.datos {
+	position: relative;
+	margin-left:50px ;
+}
+
+
+.formacion {
+	position: relative;
+	margin-left:50px ;
+}
+
+.laboral {
+	position: relative;
+	margin-left:50px ;
+}
+
+
+
